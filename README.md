@@ -67,13 +67,9 @@
 
 **📲 Pair Code — Method 2**
 
-[![Get Pairing Code](https://img.shields.io/badge/GET%20PAIRING%20CODE-FFD700?style=for-the-badge&logo=opencv&logoColor=black&labelColor=000000)](https://yobby-session.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/GET%20PAIRING%20CODE-FFD700?style=for-the-badge&logo=opencv&logoColor=black&labelColor=000000)](https://t.me/toxictechbot/)
 
-**📱 QR Code Authentication**
-
-[![Scan QR Code](https://img.shields.io/badge/SCAN%20QR%20CODE-FFD700?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)](https://yobby-pairsession.onrender.com/qr)
-
-**⭐ Starcore Pair — Method 3**
+**⭐ Yobby_bot Pair — Method 3**
 
 [![Starcore Session](https://img.shields.io/badge/STARCORE%20SESSION-FFD700?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)](https://starcore-pairing.onrender.com/pair/)
 
@@ -85,33 +81,7 @@
 
 ### 🛠️ GitHub Workflow Deployment
 
-Deploy **YO•BB•Y_B•O•T™** through GitHub Actions.
 
-> ⚠️ **Important:** Workflow runs **6 hours per cycle**. Use only on aged GitHub accounts (1+ year) to reduce suspension risk. We are not responsible for account actions taken by GitHub.
-
-**Setup steps:**
-1. Fork the repo
-2. Edit `config.js` — paste your `SESSION_ID`
-3. Save & commit
-4. Open the **Actions** tab → enable workflows
-5. Create a new workflow → paste the YAML below
-6. Rename the file to `deploy.yml` and commit
-
-​```yaml
-name: YOBBY-BOT CI
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20.x]
 
     steps:
       - name: 🛎️ Checkout repository
@@ -161,7 +131,6 @@ jobs:
 
 > ❗ **YO•BB•Y_B•O•T™** is **not affiliated** with WhatsApp Inc.
 >
-> 🚫 Misuse may lead to account bans. Use responsibly.
 >
 > 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
 
@@ -171,7 +140,7 @@ jobs:
 
 > *Crafted with ❤️ and 24-karat code by* **YOBBY**
 
-- 👑 [**YOBBY**](https://github.com/YOUR_USERNAME) — *Creator & Maintainer*
+- 👑 [**YOBBY**](https://github.com/Toxic-tch) — *Creator & Maintainer*
   - Core engine • Plugin manager • Deployment tools • Performance optimization
 
 ---
@@ -182,9 +151,7 @@ jobs:
 
 <p align="center">
 
-[![YouTube](https://img.shields.io/badge/SUBSCRIBE-YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://youtube.com/)
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://whatsapp.com/)
-[![Telegram](https://img.shields.io/badge/JOIN-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/JOIN-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/mnare0)
 
 </p>
 
