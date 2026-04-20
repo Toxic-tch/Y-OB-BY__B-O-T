@@ -63,7 +63,7 @@
 
 **📲 Pair Code — Method 1**
 
-[![Get Pairing Code](https://img.shields.io/badge/GET%20PAIRING%20CODE-FFD700?style=for-the-badge&logo=opencv&logoColor=black&labelColor=000000)](https://yobby-pairsession.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/GET%20PAIRING%20CODE-FFD700?style=for-the-badge&logo=opencv&logoColor=black&labelColor=000000)](https://pairxxx3-txcbot.space.z.ai)
 
 **📲 Pair Code — Method 2**
 
